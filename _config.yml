@@ -3,8 +3,8 @@ title: DEVSIA
 SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/코딩.gif
 email: ekfqlwcjswl@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: "블록체인 블로그"
+keyword: "kyunghyunhan, Blog, 블로그, Rust, 러스트, Solidity, 솔리디티, Blockchain, 블록체인, 백엔드, Backend, Web, web3, React"
 url: "https://kyunghyunhan.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+# weibo_username: huxpro
+# zhihu_username: huxpro
+github_username: kyunghyunhan
+# twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
