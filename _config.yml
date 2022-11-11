@@ -1,10 +1,10 @@
 # Site settings
 title: DEVSIA
-SEOTitle: Blockchain | DEVSIA Blog
-header-img: img/코딩2.gif
+SEOTitle: 黄玄的博客 | Hux Blog
+header-img: img/코딩.gif
 email: ekfqlwcjswl@gmail.com
 description: "블록체인 블로그"
-keyword: "kyunghyunhan, Blog, 블로그, Rust, 러스트, Solidity, 솔리디티, Blockchain, 블록체인, 백엔드, Backend, Web, web3, React"
+keyword: "kyunghyunhan, Blog, 블로그, Rust, 러스트, Solidity, 솔리디티, Blockchain, 블록체인, 백엔드, Backend, Web, web3, React, 前端, 设计"
 url: "https://kyunghyunhan.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -89,14 +89,14 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends: [
-    ,
-    # { title: "乱序（Midare）", href: "http://mida.re/" },
-    # { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    # { title: "Kun Qian", href: "http://kunq.me" },
-    # { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    # { title: "SmdCn", href: "http://blog.smdcn.net" },
-    # { title: "JiyinYiyong", href: "http://tiye.me/" },
-    # { title: "DHong Say", href: "http://dhong.co" },
-    # { title: "尹峰以为", href: "http://ingf.github.io/" },
+friends:
+  [
+    { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+    { title: "Kun Qian", href: "http://kunq.me" },
+    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+    { title: "SmdCn", href: "http://blog.smdcn.net" },
+    { title: "JiyinYiyong", href: "http://tiye.me/" },
+    { title: "DHong Say", href: "http://dhong.co" },
+    { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
