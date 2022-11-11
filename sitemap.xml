@@ -1,67 +1,32 @@
+---
+layout: null
+---
+
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+        {% if post.lastmod == null %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        {% else %}
+        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+        {% endif %}
 
+        {% if post.sitemap.changefreq == null %}
+        <changefreq>weekly</changefreq>
+        {% else %}
+        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+        {% endif %}
 
-<url>
-  <loc>https://kyunghyunhan.github.io/</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/about/</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/archive/</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/2022/11/11/React-vs-Angular2/</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/2022/11/11/BlockchainRoadmap/</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/archive/?tag=web3</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/archive/?tag=%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/archive/?tag=%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EB%A1%9C%EB%93%9C%EB%A7%B5</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/archive/?tag=%E7%9F%A5%E4%B9%8E</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/archive/?tag=Web</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyunghyunhan.github.io/archive/?tag=React</loc>
-  <lastmod>2022-11-11T07:11:24+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+        {% if post.sitemap.priority == null %}
+        <priority>0.5</priority>
+        {% else %}
+        <priority>{{ post.sitemap.priority }}</priority>
+        {% endif %}
 
-
+    </url>
+    {% endfor %}
 </urlset>
