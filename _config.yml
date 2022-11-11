@@ -1,6 +1,6 @@
 # Site settings
 title: DEVSIA
-SEOTitle: Developer | DEVSIA Blog
+SEOTitle: Blockchain | DEVSIA Blog
 header-img: img/코딩2.gif
 email: ekfqlwcjswl@gmail.com
 description: "블록체인 블로그"
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "블록체인 블로그"
-sidebar-avatar: img/코딩2.gif # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
