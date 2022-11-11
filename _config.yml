@@ -1,7 +1,7 @@
 # Site settings
 title: DEVSIA
 SEOTitle: DEVELOPER | DEVSIA Blog
-header-img: img/코딩2.gif
+header-img: img/coding2.gif
 email: ekfqlwcjswl@gmail.com
 description: "블록체인 블로그"
 keyword: "kyunghyunhan, Blog, 블로그, Rust, 러스트, Solidity, 솔리디티, Blockchain, 블록체인, 백엔드, Backend, Web, web3, React"
@@ -75,7 +75,7 @@ ga_domain: https://kyunghyunhan.github.io/
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "블록체인 블로그"
-sidebar-avatar: "img/코딩.jpg" # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "img/coding.jpg" # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
