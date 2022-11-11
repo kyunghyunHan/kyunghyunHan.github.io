@@ -1,6 +1,6 @@
 # Site settings
 title: DEVSIA
-SEOTitle: 黄玄的博客 | Hux Blog
+SEOTitle: Developer | DEVSIA Blog
 header-img: img/코딩2.gif
 email: ekfqlwcjswl@gmail.com
 description: "블록체인 블로그"
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "블록체인 블로그"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/코딩2.gif # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -89,14 +89,14 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
-  [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+friends: [
+    ,
+    # { title: "乱序（Midare）", href: "http://mida.re/" },
+    # { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+    # { title: "Kun Qian", href: "http://kunq.me" },
+    # { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+    # { title: "SmdCn", href: "http://blog.smdcn.net" },
+    # { title: "JiyinYiyong", href: "http://tiye.me/" },
+    # { title: "DHong Say", href: "http://dhong.co" },
+    # { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
