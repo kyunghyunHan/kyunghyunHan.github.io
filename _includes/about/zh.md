@@ -5,6 +5,10 @@ Hey，My Name is KyungHyun（a.k.a. DEVSIA, _@DEVSIA_），
 
 개인공간、[Instagram](https://www.instagram.com/hyun__dev/)、[Github](https://github.com/kyunghyunHah)
 
+##### 이력
+
+- 2022-05 ~ : 케스마이
+
 ##### 포트폴리오
 
 - [블록체인 총 구현-2022][9] · Rust
