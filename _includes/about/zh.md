@@ -3,7 +3,7 @@ Hey，My Name is KyungHyun（a.k.a. DEVSIA, _@DEVSIA_），
 
 주 언어는 Rust,Solidity,Js입니다.
 
-개인공간侠、[Instagram](https://www.instagram.com/hyun__dev/)、[Github](https://github.com/kyunghyunHah)
+개인공간、[Instagram](https://www.instagram.com/hyun__dev/)、[Github](https://github.com/kyunghyunHah)
 
 ##### 포트폴리오
 
