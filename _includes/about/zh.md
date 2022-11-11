@@ -1,5 +1,5 @@
 Hey，My Name is KyungHyun（a.k.a. DEVSIA, _@DEVSIA_），
-블록체인 및 백엔드에 대해 공부하엿고 관심이 있습니다.
+블록체인 및 백엔드에 대해 공부하고있고 블록체인 개발자로서 일하고 있습니다.
 
 주 언어는 Rust,Solidity,Js입니다.
 
