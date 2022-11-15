@@ -6,6 +6,7 @@ Hey，My Name is **KyungHyun**（a.k.a. DEVSIA, _@DEVSIA_），
 주 언어는 **Rust**,**Solidity**,**Js**입니다.
 
 개인공간:[Instagram](https://www.instagram.com/hyun__dev/)、[Github](https://github.com/kyunghyunHah)
+email:ekfqlwcjswl@gmail.com
 
 ##### 이력
 
