@@ -1,9 +1,11 @@
-Hey，My Name is KyungHyun（a.k.a. DEVSIA, _@DEVSIA_），
-블록체인 및 백엔드에 대해 공부하고있고 블록체인 개발자로서 일하고 있습니다.
+## KyungHyun ![메인](/img/메인.png)
 
-주 언어는 Rust,Solidity,Js입니다.
+Hey，My Name is **KyungHyun**（a.k.a. DEVSIA, _@DEVSIA_），
+**블록체인** 및 **백엔드에** 대해 공부하고있고 **블록체인 개발자**로서 일하고 있습니다.
 
-개인공간、[Instagram](https://www.instagram.com/hyun__dev/)、[Github](https://github.com/kyunghyunHah)
+주 언어는 **Rust**,**Solidity**,**Js**입니다.
+
+개인공간:[Instagram](https://www.instagram.com/hyun__dev/)、[Github](https://github.com/kyunghyunHah)
 
 ##### 이력
 

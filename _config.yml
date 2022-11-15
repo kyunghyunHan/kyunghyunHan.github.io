@@ -13,12 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-# weibo_username: huxpro
-# zhihu_username: huxpro
 github_username: kyunghyunhan
-# twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+linkedin_username: kyunghyun-han-8b0956244
+instargram_username: hyun__dev
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
