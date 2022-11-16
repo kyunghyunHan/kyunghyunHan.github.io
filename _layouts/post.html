@@ -53,13 +53,7 @@ layout: default
                 </ul>
                 <hr style="visibility: hidden;">
 
-                {% if site.disqus_username %}
-                <!-- disqus 评论框 start -->
-                <!-- <div class="comment">
-                    <div id="disqus_thread" class="disqus-thread"></div>
-                </div> -->
-                <!-- disqus 评论框 end -->
-                {% endif %}
+         
 
                 {% if site.netease_comment %}
                 <!-- 网易云跟帖 评论框 start -->
@@ -123,22 +117,7 @@ layout: default
 {% endif %}
 
 
-{% if site.disqus_username %}
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = "{{site.disqus_username}}";
-    var disqus_identifier = "{{page.id}}";
-    var disqus_url = "{{site.url}}{{page.url}}";
 
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<!-- disqus 公共JS代码 end -->
-{% endif %}
 
 
 {% if site.anchorjs %}
@@ -152,6 +131,15 @@ layout: default
       if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
       s.parentNode.insertBefore(o, s);
     }
+</script>
+
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
 </script>
 <!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
 <script>

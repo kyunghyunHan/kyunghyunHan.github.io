@@ -197,12 +197,6 @@ First of all, you need to sign up and get your own account. **Repeat, DO NOT use
 
 Second, from V1.5, you can easily complete your comment configuration by just adding your **short name** into `_config.yml`:
 
-```yml
-duoshuo_username: _your_duoshuo_short_name_
-# OR
-disqus_username: _your_disqus_short_name_
-```
-
 **To the old version user**, it's better that you pull the new version, otherwise you have to replace code in `post.html`, `keynote.html` and `about.html` on your own.
 
 <del>Furthermore, Duoshuo support Sharing. if you only wanna use Duoshuo comment without sharing, you can set `duoshuo_share: false`. </del>
