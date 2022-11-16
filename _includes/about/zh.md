@@ -1,6 +1,6 @@
 ## KyungHyun ![메인](/img/메인.png)
 
-Hey，My Name is **KyungHyun**（a.k.a. DEVSIA, _@DEVSIA_），
+Hey，My Name is **KyungHyun**（_@DEVSIA_），
 **블록체인** 및 **백엔드에** 대해 공부하고있고 **블록체인 개발자**로서 일하고 있습니다.
 
 주 언어는 **Rust**,**Solidity**,**Js**입니다.
