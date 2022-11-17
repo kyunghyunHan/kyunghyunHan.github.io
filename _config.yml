@@ -59,20 +59,9 @@ kramdown:
 netease_comment: false
 
 # Analytics settings
-# Analytics
-analytics:
-  provider:
-    "google-gtag"
-    # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id: "G-LR78DZXZW1"
-    anonymize_ip: # true, false (default)
-# Baidu Analytics
-# ba_track_id: [your track id]
-
 # Google Analytics
-ga_track_id: "G-LR78DZXZW1" # Format: UA-xxxxxx-xx
-ga_domain: https://kyunghyunhan.github.io/
+ga_track_id: "G-LR78DZXZW1"
+ga_domain: https://kyunghyunhan.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
