@@ -3,16 +3,22 @@
 Hey，My Name is **KyungHyun**（_@DEVSIA_），
 **블록체인** 및 **백엔드에** 대해 공부하고있고 **블록체인 개발자**로서 일하고 있습니다.
 
-주 언어는 **Rust**,**Solidity**,**Js**입니다.
+### **Skill**
 
-개인공간:[Instagram](https://www.instagram.com/hyun__dev/)、[Github](https://github.com/kyunghyunHah)
-email:ekfqlwcjswl@gmail.com
+- Rust
+- Solidity
+- JavaScript
+- Next.js
 
-##### 이력
+### **이력**
 
 - 2022-05 ~ : 케스마이
 
-##### 포트폴리오
+### **Side**
+
+- [Muzic-이력서 웹서비스](http://musikorea.ml/)
+
+### **포트폴리오**
 
 - [시저암호-2022][10] · Rust
 - [블록체인 총 구현-2022][9] · Rust
@@ -35,3 +41,9 @@ email:ekfqlwcjswl@gmail.com
 [8]: https://github.com/kyunghyunHan/ecdsa
 [9]: https://github.com/kyunghyunHan/Block_Chain
 [10]: https://github.com/kyunghyunHan/Caesar_Cipher
+
+### **Contact & Channel.**
+
+- [Instagram](https://www.instagram.com/hyun__dev/)
+- [Github](https://github.com/kyunghyunHah)
+- email:ekfqlwcjswl@gmail.com
