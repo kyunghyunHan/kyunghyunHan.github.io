@@ -15,7 +15,7 @@
 
 ### **Side**
 
-- [Muzic-이력서 웹서비스](http://musikorea.ml/)
+- [Muziks-이력서 웹서비스](https://muziks.ml/)
 
 ### **포트폴리오**
 
