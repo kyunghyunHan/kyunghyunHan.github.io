@@ -9,7 +9,7 @@ header-mask: 0.3
 catalog: true
 tags:
   - Blockchain
-  - web31
+  - web3
   - RoadMap
   - Cryptography
   - 암호화
