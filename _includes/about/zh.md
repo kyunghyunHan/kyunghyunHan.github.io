@@ -9,6 +9,7 @@
 - Solidity
 - JavaScript
 - Next.js
+- gRPC
 
 ### **이력**
 
