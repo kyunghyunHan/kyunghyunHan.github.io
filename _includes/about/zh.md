@@ -1,4 +1,4 @@
-## KyungHyun ![메인](/img/메인.png)
+## KyungHyun ![메인](/img/minipro.png)
 
 더 좋은 방향을 위한 설계하는 저는 블록체인 개발자 **한경현**입니다.
 블록체인 과 gRPC에 대해 관심이 많으며,또한 암호학에 대해 흥미가 있습니다.
@@ -6,6 +6,7 @@
 ### **Skill**
 
 - Rust
+- Nodejs
 - Solidity
 - JavaScript
 - Next.js
@@ -15,7 +16,7 @@
 
 - 2022-05 ~ : 케스마이
 
-### **Side**
+### **Side Projects**
 
 - [Muziks-이력서 웹서비스](https://muziks.ml/)
 
