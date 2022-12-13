@@ -7,8 +7,8 @@
 
 ### **Contact & Channel.**
 
-- [Instagram](https://www.instagram.com/hyun__dev/)
-- [Github](https://github.com/kyunghyunHah)
+[![인스타](/img/ins.png){: width="50" height="50" }](https://www.instagram.com/hyun__dev/)[![깃허브](/img/깃호브.png){: width="50" height="50" }](https://github.com/kyunghyunHah)
+
 - email:ekfqlwcjswl@gmail.com
 
 ### **Skill**
