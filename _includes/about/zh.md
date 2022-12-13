@@ -1,7 +1,15 @@
-## KyungHyun ![메인](/img/minipro.png)
+## KyungHyunHan ![메인](/img/minipro.png)
+
+## BlockChain Developer
 
 더 좋은 방향을 위한 설계하는 저는 블록체인 개발자 **한경현**입니다.
 블록체인 과 gRPC에 대해 관심이 많으며,또한 암호학에 대해 흥미가 있습니다.
+
+### **Contact & Channel.**
+
+- [Instagram](https://www.instagram.com/hyun__dev/)
+- [Github](https://github.com/kyunghyunHah)
+- email:ekfqlwcjswl@gmail.com
 
 ### **Skill**
 
@@ -43,9 +51,3 @@
 [8]: https://github.com/kyunghyunHan/ecdsa
 [9]: https://github.com/kyunghyunHan/Block_Chain
 [10]: https://github.com/kyunghyunHan/Caesar_Cipher
-
-### **Contact & Channel.**
-
-- [Instagram](https://www.instagram.com/hyun__dev/)
-- [Github](https://github.com/kyunghyunHah)
-- email:ekfqlwcjswl@gmail.com
