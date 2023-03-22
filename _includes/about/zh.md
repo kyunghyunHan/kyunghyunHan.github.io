@@ -7,7 +7,8 @@
 
 ### **Contact & Channel.**
 
-[![인스타](/img/ins.png){: width="50" height="50" }](https://www.instagram.com/hyun__dev/)[![깃허브](/img/깃호브.png){: width="50" height="50" }](https://github.com/kyunghyunHah)
+<center><div  text-align= "center"><a href="https://www.instagram.com/hyun__dev/"><img src="/img/ins.png" alt="이미지 설명" style="display: inline-block; width: 50px;"></a>
+<a href="https://github.com/kyunghyunHan"><img src="/img/깃호브.png"  alt="이미지 설명" style="display: inline-block; width: 50px;"></a></div></center>
 
 - email:ekfqlwcjswl@gmail.com
 
