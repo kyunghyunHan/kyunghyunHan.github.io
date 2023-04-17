@@ -1,4 +1,4 @@
-## KyungHyunHan ![메인](/img/minipro.png)
+## KyungHyunHan ![메인](/img/profile.jpeg)
 
 ## BlockChain Developer
 
