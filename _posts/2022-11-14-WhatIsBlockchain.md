@@ -3,7 +3,7 @@ layout: post
 title: "왜 블록체인인가?"
 subtitle: "블록체인 로드맵 - 왜 블록체인인가?"
 date: 2022-11-14 20:23:00
-author: "DEVSIA"
+author: "Hebi"
 header-img: "img/블록체인.png"
 header-mask: 0.3
 catalog: true

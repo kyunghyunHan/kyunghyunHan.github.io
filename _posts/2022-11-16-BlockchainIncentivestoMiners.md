@@ -4,7 +4,7 @@ title: "채굴자에 대한 블록체인 인센티브"
 subtitle: "블록체인 로드맵 - Blockchain Incentives to Miners
 "
 date: 2022-11-16 17:23:00
-author: "DEVSIA"
+author: "Hebi"
 header-img: "img/블록체인.png"
 header-mask: 0.3
 catalog: true

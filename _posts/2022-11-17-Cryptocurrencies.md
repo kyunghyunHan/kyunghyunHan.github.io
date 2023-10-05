@@ -4,7 +4,7 @@ title: "암호화폐"
 subtitle: "블록체인 로드맵 - Cryptocurrencies
 "
 date: 2022-11-17 11:23:00
-author: "DEVSIA"
+author: "Hebi"
 header-img: "img/블록체인.png"
 header-mask: 0.3
 catalog: true

@@ -3,7 +3,7 @@ layout: post
 title: "블록체인 기술의 적용 및 활용"
 subtitle: "블록체인 로드맵 - 블록체인 기술의 적용 및 활용"
 date: 2022-11-15 12:23:00
-author: "DEVSIA"
+author: "Hebi"
 header-img: "img/블록체인.png"
 header-mask: 0.3
 catalog: true

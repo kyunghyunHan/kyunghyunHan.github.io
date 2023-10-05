@@ -3,7 +3,7 @@ layout: post
 title: "분산"
 subtitle: "불록체인로드맵-분산"
 date: 2022-11-12 02:00:00
-author: "DEVSIA"
+author: "Hebi"
 header-img: "img/고양이.jpeg"
 header-mask: 0.3
 catalog: true

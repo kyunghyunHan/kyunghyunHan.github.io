@@ -3,7 +3,7 @@ layout: post
 title: "블록체인 로드맵"
 subtitle: "블록체인을 학습하기 위한 로드맵"
 date: 2022-11-11 12:00:00
-author: "DEVSIA"
+author: "Hebi"
 header-img: "img/고양이.jpeg"
 header-mask: 0.3
 catalog: true

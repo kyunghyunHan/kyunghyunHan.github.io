@@ -3,7 +3,7 @@ layout: post
 title: "블록체인 이란?"
 subtitle: "블록체인로드맵 - 블록체인이란?"
 date: 2022-11-11 13:00:00
-author: "DEVSIA"
+author: "Hebi"
 header-img: "img/고양이.jpeg"
 header-mask: 0.3
 catalog: true
