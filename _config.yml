@@ -65,7 +65,7 @@ ga_domain: https://kyunghyunhan.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "블록체인 블로그"
+sidebar-about-description: "Conputer Vison과 DL을 공부합니다"
 sidebar-avatar: "/img/profile.jpeg"
 
 # Featured Tags
