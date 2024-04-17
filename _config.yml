@@ -3,8 +3,8 @@ title: Hebi
 SEOTitle: DEVELOPER | Hebi Blog
 header-img: img/coding2.gif
 email: ekfqlwcjswl@gmail.com
-description: "Conputer Vison과 DL을 공부합니다"
-keyword: "kyunghyunhan, Blog, 블로그, Rust, 러스트, Solidity, 솔리디티, Blockchain, 블록체인, 백엔드, Backend, Web, web3, React"
+description: "Conputer Vison과 DeepLearning을 공부합니다"
+keyword: "kyunghyunhan, Blog, Rust, 러스트, OpenCv, ComputerVison, Blockchain, Axum, 백엔드, Backend, Web, DeepLearning, React"
 url: "https://kyunghyunhan.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
