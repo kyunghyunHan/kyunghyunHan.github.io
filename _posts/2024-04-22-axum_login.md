@@ -25,7 +25,7 @@ tags:
 - Axum프로젝트를 위해서 먼저 Rust프로젝트를 만들어줍니다.
 - rust가 설치되어 있지 않다면 Rust를 먼저 설치해줍니다.
 
-<a src="https://www.rust-lang.org/tools/install">Rust install</a>
+[Rust install](https://www.rust-lang.org/tools/install)
 
 - 그다음 axum과 tokio를 설치해줍니다.
 
