@@ -2,9 +2,9 @@
 layout: post
 title: "Data Structures Implemented in Rust (Part 1)"
 subtitle: "Understanding Arrays and Their Implementation"
-date: 2024-04-25 11:15:00
+date: 2024-11-05 11:15:00
 author: "Hebi"
-header-img: "img/axum.png"
+header-img: "img/Rust.png"
 header-mask: 0.3
 catalog: true
 tags:
